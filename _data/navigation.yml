@@ -5,5 +5,9 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "PracticeSite"
+    url: /demo/ 
+  - title: "QA Automation"
+    url: https://qavalidation.com 
   - title: "About"
     url: /about/
